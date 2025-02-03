@@ -16,6 +16,6 @@ Thanks for stopping by!
 
 - Brian and Carrie
   
-<video autoplay muted controls>
+<video width= "70%" autoplay muted controls>
   <source src="assets\videos\goodday.mp4"  type="video/mp4">
 </video>
