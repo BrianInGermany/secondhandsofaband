@@ -7,10 +7,11 @@ image: /assets/images/sofabandmainufer.jpg
 ---
 ## Foot-Tappin' Folk Harmony from Offenbach  
 
-Straight out of Offenbach, the Second-Hand Sofa Band is a folk duo that weaves heartfelt storytelling with rich harmonies and original songs. Rooted in tradition yet refreshingly modern, their music blends acoustic warmth with thoughtful lyrics, creating an intimate listening experience. Whether performing in cozy cafés or under the open sky, their sound invites you to sit back, relax, and get lost in the melodies—just like sinking into a well-worn sofa.
+Es fing alles mit einem Couchverkauf an...
 
+Das deutsch-amerikanische Duo Second Hand Sofa Band bringt die entspannten Vibes der US-Ostküste mit Folk-Gitarre und Gesang mitten unter die Hessen nach Frankfurt.
 
-Direkt aus Offenbach bringt die Second-Hand Sofa Band handgemachte Folk-Musik mit Tiefgang auf die Bühne. Das Duo verbindet gefühlvolles Storytelling mit harmonischem Gesang und eigenen Kompositionen. Verwurzelt in der Tradition, aber mit modernem Flair, erschaffen sie mit akustischer Wärme und durchdachten Texten ein intimes Hörerlebnis. Ob in gemütlichen Cafés oder unter freiem Himmel – ihre Musik lädt zum Zurücklehnen, Genießen und Eintauchen in die Melodien ein – wie das Einsinken in ein vertrautes, gut eingespieltes Sofa.
+Was mit einer Kleinanzeige begann, hat zu einer musikalischen Kooperation der besonderen Art geführt, die, sogar in fernen Offenbach, die Fans chilliger Rhythmen und kuscheliger Couches in Begeisterung versetzt.
 
 Thanks for stopping by!
 
